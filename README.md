@@ -1,4 +1,4 @@
-#Mini-ELF Interpreter
+# Mini-ELF Interpreter
 *********************
 In this project, Y86 instructions are retrievedd from a virtual memory image and decoded
 to produce the assembly language code. The execution is then simulated through an
