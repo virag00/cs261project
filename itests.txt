@@ -1,0 +1,32 @@
+D_help                         pass
+D_nop_hlt                      pass
+D_nop_hlt_debug                pass
+C_irmovq                       pass
+C_irmovq_debug                 pass
+C_opq                          pass
+C_opq_debug                    pass
+B_pushpop                      pass
+B_pushpop_debug                pass
+B_memreg                       pass
+B_memreg_debug                 pass
+B_simple                       pass
+B_func_debug                   pass
+B_simple_entry                 pass
+A_simple_debug                 pass
+A_cmov_debug                   pass
+A_simple_not                   pass
+A_simple_not_debug             pass
+A_opq_of_debug                 pass
+A_movflags_debug               pass
+A_pushpop_rsp_debug            pass
+A_bad_addr_debug               pass
+A_bad_nostack_debug            pass
+A_lateStart_debug              pass
+A_unaligned_debug              pass
+A_invalidOpcode                pass
+A_missing_file                 pass
+A_both_flags                   pass
+A_extra_params                 pass
+A_fileNotAtEnd                 pass
+No memory leak found.
+No uninitialized value found.
